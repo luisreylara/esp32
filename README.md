@@ -1,5 +1,4 @@
-# Ejemplos esp32 maestria
-
+# Project esp32 
 
 # Temario
 
@@ -44,7 +43,6 @@
 >   - ESP32_Two_LED_Synchron
 >   - ESP32_WhichCore
 
-
-> ESP Now
-> RS-232, USB, Comunicación Serial
+## ESP Now
+## RS-232, USB, Comunicación Serial
 
