@@ -46,3 +46,12 @@
 ## ESP Now
 ## RS-232, USB, Comunicación Serial
 
+## Resources on Youtube, some ESP32 topics: https://www.youtube.com/playlist?list=PLUhIV-TEo8VY2srDt0w7BRYnrAOVdg07U
+* ESP32.- Instalación de ambiente de desarrollo.
+* ESP32_wifi
+* ULP1 Deep Sleep esp32 1 de 3
+* ULP1 Deep Sleep esp32 2 de 3
+* ULP1 Deep Sleep esp32 3 de 3
+
+
+
