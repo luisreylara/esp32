@@ -53,7 +53,16 @@
 * ULP1 Deep Sleep esp32 2 de 3
 * ULP1 Deep Sleep esp32 3 de 3
 
-## Cambiar contraseña de esp32 con APP
+```
+Hi, maybe my could be a strange question because I didn't find anything about it, but maybe I used wrong keywords in my search.
+I have a program running on ESP32. This program need a internet connection to run and I use the integrated WiFi for this connection.
+The problem is that I need to change SSID and password and every time I need to recompile and reupload the code.
+I would like to simplify this operation with a small program (I am a C# developer) where I simply write SSID ad password and, via USB -> COM I change this parameters in the ESP32.
+Is there any way to do this? Or could you suggest me something to search?
+Thank you very much
+``` 
+
+## Cambiar contraseña de WIFI en esp32 con una App
 >   - This might be worth looking at to adapt to your purpose: https://youtu.be/VnfX9YJbaU8
 >   - Just a thought, you could use this library to achieve your goal: https://github.com/tzapu/WiFiManager
 >   - https://github.com/peterjazenga/ESPconfig I wrote it to address that problem while demonstrating how you can build a UI with some icons and color on the ESP Basic function requires only 3 lines of code and includes hotspot, OTA and WPS as part of its standard function library on Arduino IDE
