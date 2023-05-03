@@ -53,5 +53,8 @@
 * ULP1 Deep Sleep esp32 2 de 3
 * ULP1 Deep Sleep esp32 3 de 3
 
-
+## Cambiar contraseña de esp32 con APP
+>   - This might be worth looking at to adapt to your purpose: https://youtu.be/VnfX9YJbaU8
+>   - Just a thought, you could use this library to achieve your goal: https://github.com/tzapu/WiFiManager
+>   - https://github.com/peterjazenga/ESPconfig I wrote it to address that problem while demonstrating how you can build a UI with some icons and color on the ESP Basic function requires only 3 lines of code and includes hotspot, OTA and WPS as part of its standard function library on Arduino IDE
 
